@@ -2,14 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c29d44a2-ac5a-4211-ad1e-3c9ebc97e62a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression" beforeDir="false" afterPath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Homework02_Data_Exploration_and_Regression/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/.ipynb_checkpoints/.ipynb-checkpoint" beforeDir="false" afterPath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/.ipynb-checkpoint" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Homework03_Cross_Validation_and_Norms/Untitled-checkpoint.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
